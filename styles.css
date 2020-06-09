@@ -9,12 +9,12 @@ body {
 .product__rate {
 	width: 
 	height:
-	background-image:
+	background:
 }
 
 .product:nth-child(1) .product__rate-sprite {
-	background-position:
+	width: 
 }
 .product:nth-child(2) .product__rate-sprite {
-	background-position:
+	width: 
 }
