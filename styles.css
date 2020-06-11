@@ -7,14 +7,9 @@ body {
 }
 
 .product__rate-sprite {
-	width: 
-	height:
-	background:
-}
 
-.product:nth-child(1) .product__rate-sprite {
-	width: 
 }
-.product:nth-child(2) .product__rate-sprite {
-	width: 
+.product__rate-sprite_rate-five {
+}
+.product__rate-sprite_three-five {
 }
